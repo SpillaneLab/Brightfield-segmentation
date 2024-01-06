@@ -1,7 +1,7 @@
 # Brightfield segmentation
 Fiji macro to segment on the brightfield channel.
 # Overview 
-This macro segments on the brightfield channel (Figure 1) and references a signalling channel e.g., calcium, to obtain information like mean fluorescence intensity. Brightfield segmentation should only be used as a last resort when membrane staining is unavailable, as is often poorer in comparison. <br/> <br/>
+This macro segments on the brightfield channel (Figure 1) and references a signalling channel e.g., calcium (used in this example), to obtain information like mean fluorescence intensity. Brightfield segmentation should only be used as a last resort when membrane staining is unavailable, as is often poorer in comparison. <br/> <br/>
  ![Picture1](https://github.com/SpillaneLab/Brightfield-segmentation/assets/143707918/9f264a50-4461-4b18-b96b-8301210014df) <br/> <br/>
 Figure 1: Example brightfield segmentation achieved using macro. 
 # Installation 
